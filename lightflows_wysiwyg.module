@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the lightflows_wysiwyg feature.
+ */
+
+include_once('lightflows_wysiwyg.features.inc');
